@@ -1,0 +1,278 @@
+2017-10-24 00:07:53,514  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:07:53 EEST 2017
+2017-10-24 00:07:54,308  INFO com.epam.lab.service.util.TestNGListener:18 - test starts null
+2017-10-24 00:07:54,368  INFO com.epam.lab.service.util.TestNGListener:26 - test failed null
+2017-10-24 00:07:54,380  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:07:54 EEST 2017
+2017-10-24 00:08:34,518  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:08:34 EEST 2017
+2017-10-24 00:08:35,147  INFO com.epam.lab.service.util.TestNGListener:18 - test starts null
+2017-10-24 00:08:35,256  INFO com.epam.lab.service.util.TestNGListener:26 - test failed null
+2017-10-24 00:08:35,284  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:08:35 EEST 2017
+2017-10-24 00:09:50,937  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:09:50 EEST 2017
+2017-10-24 00:09:51,550  INFO com.epam.lab.service.util.TestNGListener:18 - test starts null
+2017-10-24 00:09:51,670  INFO com.epam.lab.service.util.TestNGListener:26 - test failed null
+2017-10-24 00:09:51,688  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:09:51 EEST 2017
+2017-10-24 00:10:45,153  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:10:45 EEST 2017
+2017-10-24 00:10:45,800  INFO com.epam.lab.service.util.TestNGListener:18 - test starts null
+2017-10-24 00:10:45,887  INFO com.epam.lab.service.util.TestNGListener:26 - test failed null
+2017-10-24 00:10:45,904  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:10:45 EEST 2017
+2017-10-24 00:14:52,414  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:14:52 EEST 2017
+2017-10-24 00:14:53,052  INFO com.epam.lab.service.util.TestNGListener:18 - test starts null
+2017-10-24 00:14:53,133  INFO com.epam.lab.service.util.TestNGListener:22 - test passed null during time 80
+2017-10-24 00:14:53,159  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:14:53 EEST 2017
+2017-10-24 00:15:33,552  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:15:33 EEST 2017
+2017-10-24 00:15:34,249  INFO com.epam.lab.service.util.TestNGListener:18 - test starts null
+2017-10-24 00:15:34,317  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapTest1 during time 67
+2017-10-24 00:15:34,321  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:15:34 EEST 2017
+2017-10-24 00:19:39,286  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Gmail Test on Tue Oct 24 00:19:39 EEST 2017
+2017-10-24 00:19:40,089  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapTest1
+2017-10-24 00:19:40,158  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapTest1 during time 69
+2017-10-24 00:19:40,190  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Gmail Test onTue Oct 24 00:19:40 EEST 2017
+2017-10-24 00:20:25,687  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:20:25 EEST 2017
+2017-10-24 00:20:26,424  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapTest1
+2017-10-24 00:20:26,487  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapTest1 during time 64
+2017-10-24 00:20:26,499  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:20:26 EEST 2017
+2017-10-24 00:23:22,290  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:23:22 EEST 2017
+2017-10-24 00:23:23,031  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapTest1
+2017-10-24 00:23:23,032  INFO com.epam.lab.test.SoapTest:33 - soapTest1 start
+2017-10-24 00:23:23,036  INFO com.epam.lab.test.SoapTest:37 - parsing result
+2017-10-24 00:23:23,083  INFO com.epam.lab.test.SoapTest:46 - soapTest1 passed
+2017-10-24 00:23:23,084  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapTest1 during time 53
+2017-10-24 00:23:23,123  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:23:23 EEST 2017
+2017-10-24 00:24:37,426  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:24:37 EEST 2017
+2017-10-24 00:24:38,063  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapTest1
+2017-10-24 00:24:38,065  INFO com.epam.lab.test.SoapTest:33 - soapTest1 start
+2017-10-24 00:24:38,071  INFO com.epam.lab.test.SoapTest:37 - parsing result
+2017-10-24 00:24:38,190  INFO com.epam.lab.test.SoapTest:46 - soapTest1 passed
+2017-10-24 00:24:38,192  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapTest1 during time 129
+2017-10-24 00:24:38,199  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:24:38 EEST 2017
+2017-10-24 00:26:34,366  INFO com.epam.lab.service.util.TestNGListener:38 - test starts MykolaSobkoClient on Tue Oct 24 00:26:34 EEST 2017
+2017-10-24 00:26:35,090  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:26:35,163  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 73
+2017-10-24 00:26:35,186  INFO com.epam.lab.service.util.TestNGListener:42 - test ends MykolaSobkoClient onTue Oct 24 00:26:35 EEST 2017
+2017-10-24 00:26:49,766  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:26:49 EEST 2017
+2017-10-24 00:26:50,469  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:26:50,555  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 85
+2017-10-24 00:26:50,595  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:26:50 EEST 2017
+2017-10-24 00:31:52,833  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:31:52 EEST 2017
+2017-10-24 00:31:53,450  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:31:53,523  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 73
+2017-10-24 00:31:53,527  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:31:53,546  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 19
+2017-10-24 00:31:53,547  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:31:53,553  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 00:31:53,554  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:31:53,563  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 9
+2017-10-24 00:31:53,564  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:31:53,571  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 00:31:53,573  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:31:53 EEST 2017
+2017-10-24 00:34:19,535  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:34:19 EEST 2017
+2017-10-24 00:34:20,239  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:34:20,298  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 60
+2017-10-24 00:34:20,300  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:34:20,306  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 00:34:20,307  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:34:20,319  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 12
+2017-10-24 00:34:20,320  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:34:20,332  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 12
+2017-10-24 00:34:20,335  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:34:20,352  INFO com.epam.lab.test.SoapTest:43 - 200.0
+2017-10-24 00:34:20,353  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 18
+2017-10-24 00:34:20,383  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:34:20 EEST 2017
+2017-10-24 00:39:42,647  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:39:42 EEST 2017
+2017-10-24 00:39:43,316  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:39:43,366  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual =12.0
+2017-10-24 00:39:43,376  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 59
+2017-10-24 00:39:43,378  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:39:43,394  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual =90.0
+2017-10-24 00:39:43,395  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 17
+2017-10-24 00:39:43,396  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:39:43,404  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual =1000.0
+2017-10-24 00:39:43,405  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 00:39:43,406  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:39:43,414  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual =2.0
+2017-10-24 00:39:43,415  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 9
+2017-10-24 00:39:43,416  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:39:43,430  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual =200.0
+2017-10-24 00:39:43,430  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 14
+2017-10-24 00:39:43,435  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:39:43 EEST 2017
+2017-10-24 00:50:10,434  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 00:50:10 EEST 2017
+2017-10-24 00:50:11,151  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:50:11,260  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual =12.0
+2017-10-24 00:50:11,267  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 115
+2017-10-24 00:50:11,268  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:50:11,294  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual =90.0
+2017-10-24 00:50:11,294  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 26
+2017-10-24 00:50:11,295  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:50:11,312  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual =1000.0
+2017-10-24 00:50:11,312  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 17
+2017-10-24 00:50:11,313  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:50:11,324  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual =2.0
+2017-10-24 00:50:11,325  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 12
+2017-10-24 00:50:11,326  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 00:50:11,332  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual =200.0
+2017-10-24 00:50:11,332  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 00:50:11,336  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 00:50:11 EEST 2017
+2017-10-24 01:36:56,570  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 01:36:56 EEST 2017
+2017-10-24 01:36:57,254  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 01:36:57,340  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual =12.0
+2017-10-24 01:36:57,343  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 89
+2017-10-24 01:36:57,344  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 01:36:57,380  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual =90.0
+2017-10-24 01:36:57,380  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 36
+2017-10-24 01:36:57,381  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 01:36:57,389  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual =1000.0
+2017-10-24 01:36:57,389  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 01:36:57,390  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 01:36:57,397  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual =2.0
+2017-10-24 01:36:57,398  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 01:36:57,399  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 01:36:57,406  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual =200.0
+2017-10-24 01:36:57,406  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 7
+2017-10-24 01:36:57,411  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 01:36:57 EEST 2017
+2017-10-24 20:10:17,888  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 20:10:17 EEST 2017
+2017-10-24 20:10:18,609  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 20:10:18,678  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual =12.0
+2017-10-24 20:10:18,678  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 69
+2017-10-24 20:10:18,678  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 20:10:18,678  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual =90.0
+2017-10-24 20:10:18,678  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 0
+2017-10-24 20:10:18,678  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 20:10:18,678  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual =1000.0
+2017-10-24 20:10:18,678  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 0
+2017-10-24 20:10:18,678  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 20:10:18,694  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual =2.0
+2017-10-24 20:10:18,694  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 16
+2017-10-24 20:10:18,694  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 20:10:18,694  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual =200.0
+2017-10-24 20:10:18,694  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 0
+2017-10-24 20:10:18,710  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 20:10:18 EEST 2017
+2017-10-24 20:51:16,070  INFO com.epam.lab.test.RestTest:43 - Expected result = 2.0 and actual =30.0
+2017-10-24 20:51:31,120  INFO com.epam.lab.test.RestTest:43 - Expected result = 30.0 and actual =30.0
+2017-10-24 20:57:05,143  INFO com.epam.lab.test.RestTest:53 - Expected result = 5.0 and actual = -245.0
+2017-10-24 20:57:25,289  INFO com.epam.lab.test.RestTest:53 - Expected result = 5.0 and actual = 5.0
+2017-10-24 20:58:16,699  INFO com.epam.lab.test.RestTest:63 - Expected result = 3.6667 and actual = 3.6667
+2017-10-24 21:00:04,170  INFO com.epam.lab.test.RestTest:73 - Expected result = 7.02 and actual = 7.02
+2017-10-24 21:07:22,454  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 21:07:22 EEST 2017
+2017-10-24 21:07:23,295  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,401  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual = 12.0
+2017-10-24 21:07:23,404  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 109
+2017-10-24 21:07:23,405  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,414  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual = 90.0
+2017-10-24 21:07:23,415  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 10
+2017-10-24 21:07:23,416  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,425  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual = 1000.0
+2017-10-24 21:07:23,426  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 10
+2017-10-24 21:07:23,427  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,433  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:07:23,434  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 7
+2017-10-24 21:07:23,435  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,447  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual = 200.0
+2017-10-24 21:07:23,447  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 13
+2017-10-24 21:07:23,453  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,530  INFO com.epam.lab.test.RestTest:63 - Expected result = 3.6667 and actual = 3.6667
+2017-10-24 21:07:23,531  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restDivisionTest_ValidValuesPassed_ShouldPass during time 79
+2017-10-24 21:07:23,532  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,539  INFO com.epam.lab.test.RestTest:53 - Expected result = 5.0 and actual = 5.0
+2017-10-24 21:07:23,540  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMinusTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 21:07:23,541  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMultiplicationTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,548  INFO com.epam.lab.test.RestTest:73 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:07:23,548  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMultiplicationTest_ValidValuesPassed_ShouldPass during time 7
+2017-10-24 21:07:23,549  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:07:23,557  INFO com.epam.lab.test.RestTest:43 - Expected result = 30.0 and actual = 30.0
+2017-10-24 21:07:23,558  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPlusTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 21:07:23,558  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 21:07:23 EEST 2017
+2017-10-24 21:09:44,434  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Soap on Tue Oct 24 21:09:44 EEST 2017
+2017-10-24 21:09:45,223  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,278  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual = 12.0
+2017-10-24 21:09:45,281  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 58
+2017-10-24 21:09:45,282  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,289  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual = 90.0
+2017-10-24 21:09:45,290  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 21:09:45,291  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,299  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual = 1000.0
+2017-10-24 21:09:45,300  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 8
+2017-10-24 21:09:45,305  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,326  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:09:45,327  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 22
+2017-10-24 21:09:45,327  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,336  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual = 200.0
+2017-10-24 21:09:45,337  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 10
+2017-10-24 21:09:45,342  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,417  INFO com.epam.lab.test.RestTest:63 - Expected result = 3.6667 and actual = 3.6667
+2017-10-24 21:09:45,418  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restDivisionTest_ValidValuesPassed_ShouldPass during time 76
+2017-10-24 21:09:45,419  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,423  INFO com.epam.lab.test.RestTest:53 - Expected result = 5.0 and actual = 5.0
+2017-10-24 21:09:45,424  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMinusTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 21:09:45,424  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMultiplicationTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,429  INFO com.epam.lab.test.RestTest:73 - Expected result = 11.1111 and actual = 11.1111
+2017-10-24 21:09:45,430  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMultiplicationTest_ValidValuesPassed_ShouldPass during time 5
+2017-10-24 21:09:45,430  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,435  INFO com.epam.lab.test.RestTest:83 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:09:45,436  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPercentTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 21:09:45,436  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:09:45,442  INFO com.epam.lab.test.RestTest:43 - Expected result = 30.0 and actual = 30.0
+2017-10-24 21:09:45,443  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPlusTest_ValidValuesPassed_ShouldPass during time 7
+2017-10-24 21:09:45,443  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Soap onTue Oct 24 21:09:45 EEST 2017
+2017-10-24 21:10:55,238  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Web services tests on Tue Oct 24 21:10:55 EEST 2017
+2017-10-24 21:10:55,979  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,033  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual = 12.0
+2017-10-24 21:10:56,036  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 57
+2017-10-24 21:10:56,039  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,050  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual = 90.0
+2017-10-24 21:10:56,050  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 11
+2017-10-24 21:10:56,051  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,063  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual = 1000.0
+2017-10-24 21:10:56,063  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 12
+2017-10-24 21:10:56,064  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,079  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:10:56,079  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 15
+2017-10-24 21:10:56,080  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,090  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual = 200.0
+2017-10-24 21:10:56,091  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 10
+2017-10-24 21:10:56,096  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,192  INFO com.epam.lab.test.RestTest:63 - Expected result = 3.6667 and actual = 3.6667
+2017-10-24 21:10:56,192  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restDivisionTest_ValidValuesPassed_ShouldPass during time 96
+2017-10-24 21:10:56,193  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,198  INFO com.epam.lab.test.RestTest:53 - Expected result = 5.0 and actual = 5.0
+2017-10-24 21:10:56,199  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMinusTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 21:10:56,200  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMultiplicationTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,205  INFO com.epam.lab.test.RestTest:73 - Expected result = 11.1111 and actual = 11.1111
+2017-10-24 21:10:56,206  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMultiplicationTest_ValidValuesPassed_ShouldPass during time 5
+2017-10-24 21:10:56,206  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,211  INFO com.epam.lab.test.RestTest:83 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:10:56,212  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPercentTest_ValidValuesPassed_ShouldPass during time 6
+2017-10-24 21:10:56,213  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:10:56,218  INFO com.epam.lab.test.RestTest:43 - Expected result = 30.0 and actual = 30.0
+2017-10-24 21:10:56,219  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPlusTest_ValidValuesPassed_ShouldPass during time 5
+2017-10-24 21:10:56,219  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Web services tests onTue Oct 24 21:10:56 EEST 2017
+2017-10-24 21:15:41,629  INFO com.epam.lab.service.util.TestNGListener:38 - test starts Web services tests on Tue Oct 24 21:15:41 EEST 2017
+2017-10-24 21:15:42,331  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:42,425  INFO com.epam.lab.test.SoapTest:71 - Expected result = 12.0 and actual = 12.0
+2017-10-24 21:15:42,428  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapDivisionTest_ValidValuesPassed_ShouldPass during time 98
+2017-10-24 21:15:42,430  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:42,451  INFO com.epam.lab.test.SoapTest:57 - Expected result = 90.0 and actual = 90.0
+2017-10-24 21:15:42,452  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMinusTest_ValidValuesPassed_ShouldPass during time 22
+2017-10-24 21:15:42,453  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapMultipleTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:42,505  INFO com.epam.lab.test.SoapTest:85 - Expected result = 1000.0 and actual = 1000.0
+2017-10-24 21:15:42,505  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapMultipleTest_ValidValuesPassed_ShouldPass during time 52
+2017-10-24 21:15:42,506  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:42,525  INFO com.epam.lab.test.SoapTest:99 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:15:42,525  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPercentTest_ValidValuesPassed_ShouldPass during time 19
+2017-10-24 21:15:42,526  INFO com.epam.lab.service.util.TestNGListener:18 - test starts soapPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:42,540  INFO com.epam.lab.test.SoapTest:44 - Expected result = 200.0 and actual = 200.0
+2017-10-24 21:15:42,541  INFO com.epam.lab.service.util.TestNGListener:22 - test passed soapPlusTest_ValidValuesPassed_ShouldPass during time 15
+2017-10-24 21:15:42,546  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restDivisionTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:43,556  INFO com.epam.lab.test.RestTest:63 - Expected result = 3.6667 and actual = 3.6667
+2017-10-24 21:15:43,556  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restDivisionTest_ValidValuesPassed_ShouldPass during time 1010
+2017-10-24 21:15:43,556  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMinusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:43,556  INFO com.epam.lab.test.RestTest:53 - Expected result = 5.0 and actual = 5.0
+2017-10-24 21:15:43,556  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMinusTest_ValidValuesPassed_ShouldPass during time 0
+2017-10-24 21:15:43,556  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restMultiplicationTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:43,556  INFO com.epam.lab.test.RestTest:73 - Expected result = 11.1111 and actual = 11.1111
+2017-10-24 21:15:43,556  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restMultiplicationTest_ValidValuesPassed_ShouldPass during time 0
+2017-10-24 21:15:43,556  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPercentTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:43,572  INFO com.epam.lab.test.RestTest:83 - Expected result = 2.0 and actual = 2.0
+2017-10-24 21:15:43,572  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPercentTest_ValidValuesPassed_ShouldPass during time 16
+2017-10-24 21:15:43,572  INFO com.epam.lab.service.util.TestNGListener:18 - test starts restPlusTest_ValidValuesPassed_ShouldPass
+2017-10-24 21:15:43,572  INFO com.epam.lab.test.RestTest:43 - Expected result = 30.0 and actual = 30.0
+2017-10-24 21:15:43,572  INFO com.epam.lab.service.util.TestNGListener:22 - test passed restPlusTest_ValidValuesPassed_ShouldPass during time 0
+2017-10-24 21:15:43,572  INFO com.epam.lab.service.util.TestNGListener:42 - test ends Web services tests onTue Oct 24 21:15:43 EEST 2017

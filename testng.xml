@@ -3,9 +3,10 @@
     <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     </listeners>
-    <test name="Soap">
+    <test name="Web services tests">
         <classes>
             <class name="com.epam.lab.test.SoapTest"/>
+            <class name="com.epam.lab.test.RestTest"/>
         </classes>
     </test>
 </suite>

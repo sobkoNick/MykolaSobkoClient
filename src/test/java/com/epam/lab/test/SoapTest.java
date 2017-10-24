@@ -41,7 +41,7 @@ public class SoapTest {
         }
         double result = number.doubleValue();
         double expectedResult = 200.0;
-        LOGGER.info("Expected result = " + expectedResult + " and actual =" + result);
+        LOGGER.info("Expected result = " + expectedResult + " and actual = " + result);
         Assert.assertEquals(expectedResult, result);
     }
 
@@ -54,7 +54,7 @@ public class SoapTest {
         }
         double result = number.doubleValue();
         double expectedResult = 90.0;
-        LOGGER.info("Expected result = " + expectedResult + " and actual =" + result);
+        LOGGER.info("Expected result = " + expectedResult + " and actual = " + result);
         Assert.assertEquals(expectedResult, result);
     }
 
@@ -68,7 +68,7 @@ public class SoapTest {
         double result = number.doubleValue();
 
         double expectedResult = 12.0;
-        LOGGER.info("Expected result = " + expectedResult + " and actual =" + result);
+        LOGGER.info("Expected result = " + expectedResult + " and actual = " + result);
         Assert.assertEquals(expectedResult, result);
     }
 
@@ -82,7 +82,7 @@ public class SoapTest {
         double result = number.doubleValue();
 
         double expectedResult = 1000.0;
-        LOGGER.info("Expected result = " + expectedResult + " and actual =" + result);
+        LOGGER.info("Expected result = " + expectedResult + " and actual = " + result);
         Assert.assertEquals(expectedResult, result);
     }
 
@@ -96,7 +96,7 @@ public class SoapTest {
         double result = number.doubleValue();
 
         double expectedResult = 2.0;
-        LOGGER.info("Expected result = " + expectedResult + " and actual =" + result);
+        LOGGER.info("Expected result = " + expectedResult + " and actual = " + result);
         Assert.assertEquals(expectedResult, result);
     }
 
